@@ -1,0 +1,51 @@
+2018-10-01 18:06:40 INFO  WaitHelper:142 - waiting for :[[ChromeDriver: chrome on XP (f6295546d20ee3ca6ff6c7c68952858f)] -> xpath: //*[@id='c24-breadcrumb']/div/ul/li/a]de.check24.cucumberFramework.helpers.wait.WaitHelper@450794b4for:20seconds
+2018-10-01 18:06:41 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:41 INFO  WaitHelper:142 - waiting for :[[ChromeDriver: chrome on XP (f6295546d20ee3ca6ff6c7c68952858f)] -> xpath: //*[@id='email']]de.check24.cucumberFramework.helpers.wait.WaitHelper@7f34a967for:20seconds
+2018-10-01 18:06:41 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:41 INFO  LoginStepDefinitions:35 - log in page is displayed
+2018-10-01 18:06:41 INFO  LoginPage:55 - Entering email address...
+2018-10-01 18:06:41 INFO  LoginStepDefinitions:41 - Entered email
+2018-10-01 18:06:41 INFO  LoginPage:61 - Entering password...
+2018-10-01 18:06:41 INFO  LoginStepDefinitions:47 - Entered password
+2018-10-01 18:06:41 INFO  LoginPage:67 - Clicking on login...
+2018-10-01 18:06:42 INFO  LoginStepDefinitions:53 - clicked on Sign in button
+2018-10-01 18:06:42 INFO  WaitHelper:142 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]'de.check24.cucumberFramework.helpers.wait.WaitHelper@74971ed9for:20seconds
+2018-10-01 18:06:44 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:44 INFO  VerificationHelper:28 - element is displayed..Sie sind angemeldet als anil.kundeti@gmail.com
+2018-10-01 18:06:44 INFO  AssertionHelper:28 - Making script PASS..
+2018-10-01 18:06:44 INFO  LoginStepDefinitions:62 - User logged in successfully
+2018-10-01 18:06:44 INFO  ServiceHooks:45 - Sign In with valid credentials is pass
+2018-10-01 18:06:48 INFO  WaitHelper:142 - waiting for :[[ChromeDriver: chrome on XP (10f22c0ca5978cc6662d333c94057fb6)] -> xpath: //*[@id='c24-breadcrumb']/div/ul/li/a]de.check24.cucumberFramework.helpers.wait.WaitHelper@72ee5d84for:20seconds
+2018-10-01 18:06:48 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:49 INFO  WaitHelper:142 - waiting for :[[ChromeDriver: chrome on XP (10f22c0ca5978cc6662d333c94057fb6)] -> xpath: //*[@id='email']]de.check24.cucumberFramework.helpers.wait.WaitHelper@6107165for:20seconds
+2018-10-01 18:06:49 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:49 INFO  LoginStepDefinitions:35 - log in page is displayed
+2018-10-01 18:06:49 INFO  LoginPage:55 - Entering email address...
+2018-10-01 18:06:49 INFO  LoginStepDefinitions:41 - Entered email
+2018-10-01 18:06:49 INFO  LoginPage:61 - Entering password...
+2018-10-01 18:06:49 INFO  LoginStepDefinitions:47 - Entered password
+2018-10-01 18:06:49 INFO  LoginPage:67 - Clicking on login...
+2018-10-01 18:06:49 INFO  LoginStepDefinitions:53 - clicked on Sign in button
+2018-10-01 18:06:49 INFO  WaitHelper:142 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]'de.check24.cucumberFramework.helpers.wait.WaitHelper@103082ddfor:20seconds
+2018-10-01 18:06:52 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:52 INFO  VerificationHelper:28 - element is displayed..Sie sind angemeldet als anil.kundeti@gmail.com
+2018-10-01 18:06:52 INFO  AssertionHelper:28 - Making script PASS..
+2018-10-01 18:06:52 INFO  LoginStepDefinitions:62 - User logged in successfully
+2018-10-01 18:06:52 INFO  ServiceHooks:45 - Sign In with valid credentials is pass
+2018-10-01 18:06:56 INFO  WaitHelper:142 - waiting for :[[ChromeDriver: chrome on XP (536b95f5f99a16a092c031723ca313ae)] -> xpath: //*[@id='c24-breadcrumb']/div/ul/li/a]de.check24.cucumberFramework.helpers.wait.WaitHelper@2d7a9786for:20seconds
+2018-10-01 18:06:57 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:57 INFO  WaitHelper:142 - waiting for :[[ChromeDriver: chrome on XP (536b95f5f99a16a092c031723ca313ae)] -> xpath: //*[@id='email']]de.check24.cucumberFramework.helpers.wait.WaitHelper@6242ae3bfor:20seconds
+2018-10-01 18:06:57 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:06:57 INFO  LoginStepDefinitions:35 - log in page is displayed
+2018-10-01 18:06:57 INFO  LoginPage:55 - Entering email address...
+2018-10-01 18:06:57 INFO  LoginStepDefinitions:41 - Entered email
+2018-10-01 18:06:57 INFO  LoginPage:61 - Entering password...
+2018-10-01 18:06:57 INFO  LoginStepDefinitions:47 - Entered password
+2018-10-01 18:06:57 INFO  LoginPage:67 - Clicking on login...
+2018-10-01 18:06:57 INFO  LoginStepDefinitions:53 - clicked on Sign in button
+2018-10-01 18:06:57 INFO  WaitHelper:142 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='c24-kb-container']/div/div[1]/div/div/div/p[contains(text(),'Sie sind angemeldet')]'de.check24.cucumberFramework.helpers.wait.WaitHelper@4a3bd45bfor:20seconds
+2018-10-01 18:07:08 INFO  WaitHelper:145 - element is visible now by using by WebDriverWait
+2018-10-01 18:07:08 INFO  VerificationHelper:28 - element is displayed..Sie sind angemeldet als srividyakundeti@gmx.de
+2018-10-01 18:07:08 INFO  AssertionHelper:28 - Making script PASS..
+2018-10-01 18:07:08 INFO  LoginStepDefinitions:62 - User logged in successfully
+2018-10-01 18:07:08 INFO  ServiceHooks:45 - Sign In with valid credentials is pass
